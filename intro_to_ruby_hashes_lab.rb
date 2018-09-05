@@ -21,7 +21,10 @@ def monopoly_with_second_tier
 	           :pieces => 4,
 	           :names => {},
 	           :rent_in_dollars => {
-	             one_p
+	             :one_piece => 25,
+	             :two_piece => 50,
+	             :three_piece => 100,
+	             :four_piece => 200
 	           }
 	           
 	  }         
